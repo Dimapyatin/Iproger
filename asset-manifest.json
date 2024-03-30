@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Iproger/static/css/main.cb0b7e07.css",
+    "main.js": "/Iproger/static/js/main.5daa7909.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Iproger/static/js/787.28cb0dcd.chunk.js",
+    "static/media/javascript-logo-big.png": "/Iproger/static/media/javascript-logo-big.e087754771abd3526937.png",
+    "static/media/5968350.png": "/Iproger/static/media/5968350.6a5cbc319ab3ddf8ef92.png",
+    "static/media/4736380.png": "/Iproger/static/media/4736380.49090fb6837224eb1334.png",
+    "static/media/6132222.png": "/Iproger/static/media/6132222.24a8f93854ab092f17a7.png",
+    "static/media/919830.png": "/Iproger/static/media/919830.c67d24b47808dc6611ed.png",
+    "index.html": "/Iproger/index.html",
+    "main.cb0b7e07.css.map": "/Iproger/static/css/main.cb0b7e07.css.map",
+    "main.5daa7909.js.map": "/Iproger/static/js/main.5daa7909.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Iproger/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb0b7e07.css",
+    "static/js/main.5daa7909.js"
+  ]
+}
