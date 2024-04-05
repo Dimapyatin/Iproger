@@ -197,3 +197,17 @@
         margin: 0;
     }
 }
+@media screen and (max-width: 360px){
+    .info_href_gitg{
+        min-width: 70px;
+        padding: 10px;
+    }
+    .btn_review{
+        min-width: 70px;
+        padding: 10px;
+    }
+    .info_href_kwrk{
+        min-width: 70px;
+        padding: 10px;
+    }
+}
